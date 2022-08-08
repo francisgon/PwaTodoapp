@@ -1,0 +1,33 @@
+{
+  "name": "Todo List Web App",
+  "short_name": "Todo App",
+  "description": "Web App for creating Todo List task",
+  "start_url": "http:/localhost:3000/index.html",
+  "theme_color": "#317EFB",
+  "background_color": "#317EFB",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "icons/icon128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/coffee-icon96X96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/coffee-icon512X512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+
+}
